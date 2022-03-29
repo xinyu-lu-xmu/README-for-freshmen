@@ -18,7 +18,8 @@
 机器学习：
 + 统计学习方法（第二版）--李航著
 + 西瓜书 --周志华
-+ 机器学习框架：sci-kit learn(https://scikit-learn.org.cn)
++ 机器学习框架：sci-kit learn(https://scikit-learn.org.cn)  
+
 深度学习：
 + 动手学习深度学习(https://zh.d2l.ai/)
 + 深度学习框架：Pytorch(https://pytorch.org)
